@@ -8,7 +8,7 @@ export default async function handler(req,res){
  const A=process.env.RESEND_AUDIENCE_ID;
  // pending = stored unsubscribed until confirmed
  await resend(`/audiences/${A}/contacts`,'POST',{email,unsubscribed:true});
- const link=`${SITE}/api/confirm?t=${encodeURIComponent(sign(email))}`;
+ const link=`${SITE}/api/confirm/?t=${encodeURIComponent(sign(email))}`;
  const r=await resend('/emails','POST',{from:process.env.NEWSLETTER_FROM,to:[email],subject:'Confirm your QuotaWatch alerts',
   text:`Confirm you want QuotaWatch emails when AI coding plan limits change:\n\n${link}\n\nThis link expires in 48 hours. If you didn't sign up, ignore this email and nothing happens.`,
   html:`<p>Confirm you want QuotaWatch emails when AI coding plan limits change:</p><p><a href="${link}">Confirm subscription</a></p><p>This link expires in 48 hours. If you didn't sign up, ignore this email and nothing happens.</p>`});
