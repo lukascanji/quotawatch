@@ -1,0 +1,1 @@
+{"buildCommand":"node scripts/build.mjs","outputDirectory":"site","framework":null,"cleanUrls":true,"trailingSlash":true}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quotawatch.vercel.app/sitemap.xml
