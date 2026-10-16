@@ -9,7 +9,9 @@
    "metering": "5-hour rolling window + weekly limits; Claude Code shares pool with chat",
    "source": "https://claude.com/pricing",
    "quote": "$17 Per month with annual subscription discount ($200 billed up front). $20 if billed monthly.",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "daily"
   },
   {
    "tool": "claude",
@@ -18,7 +20,9 @@
    "metering": "5x or 20x Pro usage per 5-hour session; Max 5x $100/mo, Max 20x $200/mo API credits",
    "source": "https://claude.com/pricing",
    "quote": "From $100 Per month ... Choose 5x or 20x more usage than Pro",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "claude",
@@ -27,7 +31,9 @@
    "metering": "seat + usage at API rates",
    "source": "https://claude.com/pricing",
    "quote": "Pricing is $20 per seat per month plus usage billed at API rates",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "team",
+   "tier": "none"
   },
   {
    "tool": "copilot",
@@ -36,7 +42,9 @@
    "metering": "2000 completions, 50 chat requests",
    "source": "https://github.com/features/copilot/plans",
    "quote": "limited to 2000 completions and 50 chat requests",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
   },
   {
    "tool": "copilot",
@@ -45,7 +53,9 @@
    "metering": "$15/mo AI Credits ($10 base + $5 flex); 1 credit = $0.01",
    "source": "https://github.com/features/copilot/plans",
    "quote": "Pro $10 per month ... Total GitHub AI Credits $15 per month",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
   },
   {
    "tool": "copilot",
@@ -54,7 +64,9 @@
    "metering": "$70/mo AI Credits ($39 base + $31 flex)",
    "source": "https://github.com/features/copilot/plans",
    "quote": "Pro+ $39 per month ... $70 per month",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "daily"
   },
   {
    "tool": "copilot",
@@ -63,7 +75,9 @@
    "metering": "$200/mo AI Credits total",
    "source": "https://github.com/features/copilot/plans",
    "quote": "Max $100 per month ... $200 per month",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "cursor",
@@ -72,7 +86,9 @@
    "metering": "shared Cursor+Grok pool, weekly refresh; Grok models only",
    "source": "https://prod.cursor.com/help/account-and-billing/pricing",
    "quote": "Plus $8/month ... *Only Grok models are available on this plan",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
   },
   {
    "tool": "cursor",
@@ -81,7 +97,9 @@
    "metering": "4x Plus; 3rd-party models at API list price",
    "source": "https://prod.cursor.com/help/account-and-billing/pricing",
    "quote": "Premium $30/month ... 4x more usage compared to Plus",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "daily"
   },
   {
    "tool": "cursor",
@@ -90,7 +108,9 @@
    "metering": "15x Plus",
    "source": "https://prod.cursor.com/help/account-and-billing/pricing",
    "quote": "Super $100/month ... 15x",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "cursor",
@@ -99,7 +119,9 @@
    "metering": "50x Plus",
    "source": "https://prod.cursor.com/help/account-and-billing/pricing",
    "quote": "Ultra $200/month ... 50x",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "codex",
@@ -108,7 +130,9 @@
    "metering": "Codex limited; 5-hour estimates",
    "source": "https://learn.chatgpt.com/docs/pricing.md",
    "quote": "price=\"$8\"",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
   },
   {
    "tool": "codex",
@@ -117,7 +141,9 @@
    "metering": "5-hour local-message estimates + possible weekly limits; credits beyond",
    "source": "https://learn.chatgpt.com/docs/pricing.md",
    "quote": "price=\"$20\" / \"local messages per five-hour period for Plus\"",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "daily"
   },
   {
    "tool": "codex",
@@ -126,7 +152,9 @@
    "metering": "no 5-hour limit currently; weekly limits may apply",
    "source": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
    "quote": "Pro 100 | $100",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "codex",
@@ -135,7 +163,9 @@
    "metering": "more than Pro 100; lower allowance for non-grandfathered new subs",
    "source": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
    "quote": "Pro 200 | $200",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "codex",
@@ -144,7 +174,9 @@
    "metering": "highest; only tier with Ultrafast",
    "source": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
    "quote": "Pro 500 | $500 | Included",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "windsurf",
@@ -153,7 +185,9 @@
    "metering": "light quota, unlimited Tab",
    "source": "https://windsurf.com/pricing",
    "quote": "Free $0 ... Light quota to code with agents",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
   },
   {
    "tool": "windsurf",
@@ -162,7 +196,9 @@
    "metering": "increased quotas; extra usage at API pricing",
    "source": "https://windsurf.com/pricing",
    "quote": "Pro POPULAR $20 per month",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "daily"
   },
   {
    "tool": "windsurf",
@@ -171,7 +207,9 @@
    "metering": "significantly higher quotas",
    "source": "https://windsurf.com/pricing",
    "quote": "Max NEW $200 per month",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy"
   },
   {
    "tool": "windsurf",
@@ -180,7 +218,9 @@
    "metering": "$80/mo team + $40/mo per full dev seat",
    "source": "https://windsurf.com/pricing",
    "quote": "$80 /month for team plan + $40/mo per full dev seat",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "team",
+   "tier": "daily"
   },
   {
    "tool": "gemini-cli",
@@ -189,7 +229,9 @@
    "metering": "1,000 requests/user/day",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Gemini Code Assist (Individual) | 1,000 requests",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
   },
   {
    "tool": "gemini-cli",
@@ -198,7 +240,9 @@
    "metering": "1,500 requests/user/day (price not on this page)",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Google AI Pro | 1,500 requests",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "none"
   },
   {
    "tool": "gemini-cli",
@@ -207,7 +251,9 @@
    "metering": "2,000 requests/user/day (price not on this page)",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Google AI Ultra | 2,000 requests",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "none"
   },
   {
    "tool": "gemini-cli",
@@ -216,7 +262,9 @@
    "metering": "250 requests/day, Flash only",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Free tier (Unpaid) | 250 requests",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
   }
  ],
  "changes": [
@@ -235,7 +283,7 @@
    "type": "limit",
    "title": "Claude Code weekly limits settle at +25% vs pre-promo baseline (−17% vs promo)",
    "source": "https://reveneau.com/insights/the-14-september-2026-change-to-claude-code-weekly-limits",
-   "confidence": "reported (BleepingComputer via secondary); find primary",
+   "confidence": "reported",
    "slug": "2026-09-14-claude-claude-code-weekly-limits-settle-at-25-vs-pre-prom"
   },
   {
@@ -250,8 +298,9 @@
     "https://prod.cursor.com/help/account-and-billing/pricing",
     "https://docs.x.ai/x-subscription/pricing"
    ],
-   "confidence": "official; date approximate (announcement undated on page; docs 'Last updated October 11, 2026')",
-   "slug": "2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu"
+   "confidence": "official",
+   "slug": "2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu",
+   "quote": "Plus $8/month ... Premium $30/month ... Super $100/month ... Ultra $200/month"
   },
   {
    "date": "2026-09-29",
@@ -259,8 +308,9 @@
    "type": "plan",
    "title": "ChatGPT Pro adds $500 tier; Pro 200 reopens with lower allowance for new non-grandfathered subs",
    "source": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-   "confidence": "official (date per LimitSheet)",
-   "slug": "2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low"
+   "confidence": "official",
+   "slug": "2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low",
+   "quote": "Pro 100 | $100 ... Pro 200 | $200 ... Pro 500 | $500"
   },
   {
    "date": "2026-06-18",

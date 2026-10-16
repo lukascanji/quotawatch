@@ -15,8 +15,9 @@
    "type": "limit",
    "title": "Claude Code weekly limits settle at +25% vs pre-promo baseline (\u221217% vs promo)",
    "source": "https://reveneau.com/insights/the-14-september-2026-change-to-claude-code-weekly-limits",
-   "confidence": "reported (BleepingComputer via secondary); find primary",
-   "slug": "2026-09-14-claude-claude-code-weekly-limits-settle-at-25-vs-pre-prom"
+   "confidence": "reported",
+   "slug": "2026-09-14-claude-claude-code-weekly-limits-settle-at-25-vs-pre-prom",
+   "notes": "reported (BleepingComputer via secondary); find primary"
   },
   {
    "date": "2026-10-11",
@@ -30,8 +31,10 @@
     "https://prod.cursor.com/help/account-and-billing/pricing",
     "https://docs.x.ai/x-subscription/pricing"
    ],
-   "confidence": "official; date approximate (announcement undated on page; docs 'Last updated October 11, 2026')",
-   "slug": "2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu"
+   "confidence": "official",
+   "slug": "2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu",
+   "notes": "official; date approximate (announcement undated on page; docs 'Last updated October 11, 2026')",
+   "quote": "Plus $8/month ... Premium $30/month ... Super $100/month ... Ultra $200/month"
   },
   {
    "date": "2026-09-29",
@@ -39,8 +42,10 @@
    "type": "plan",
    "title": "ChatGPT Pro adds $500 tier; Pro 200 reopens with lower allowance for new non-grandfathered subs",
    "source": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-   "confidence": "official (date per LimitSheet)",
-   "slug": "2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low"
+   "confidence": "official",
+   "slug": "2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low",
+   "notes": "official (date per LimitSheet)",
+   "quote": "Pro 100 | $100 ... Pro 200 | $200 ... Pro 500 | $500"
   },
   {
    "date": "2026-06-18",
