@@ -1,0 +1,267 @@
+{
+  "updated": "2026-10-16",
+  "note": "Run each query with since_id of last seen post (sort_order=recency, max_results=100); posts are leads to verify against vendor pages, not sources on their own.",
+  "accounts": [
+    {
+      "handle": "claudeai",
+      "user_id": "1943306828697550848",
+      "company": "Anthropic",
+      "role": "Official Claude product account",
+      "evidence_url": "https://x.com/claudeai/status/2102435538120691886",
+      "evidence_date": "2026-09-22",
+      "evidence_summary": "Raised 5-hour usage limits on Pro/Max/Team"
+    },
+    {
+      "handle": "alexalbert__",
+      "user_id": "1380719534970040322",
+      "company": "Anthropic",
+      "role": "Claude Relations lead",
+      "evidence_url": "https://x.com/alexalbert__/status/2054613082589298899",
+      "evidence_date": "2026-05-13",
+      "evidence_summary": "Paid plans get monthly Agent SDK credit"
+    },
+    {
+      "handle": "bcherny",
+      "user_id": "159337660",
+      "company": "Anthropic",
+      "role": "Claude Code creator/lead",
+      "evidence_url": "https://x.com/bcherny/status/2102550851697234131",
+      "evidence_date": "2026-09-23",
+      "evidence_summary": "Opus 5.5 price cut + rate limit increases"
+    },
+    {
+      "handle": "_catwu",
+      "user_id": "974757274206978049",
+      "company": "Anthropic",
+      "role": "Claude Code product lead",
+      "evidence_url": "https://x.com/_catwu/status/2072524601163411733",
+      "evidence_date": "2026-07-02",
+      "evidence_summary": "API rate limit tiers (replies)"
+    },
+    {
+      "handle": "AnthropicAI",
+      "user_id": "1353836358901501952",
+      "company": "Anthropic",
+      "role": "Official company account",
+      "evidence_url": "https://x.com/AnthropicAI/status/2079256626771665098",
+      "evidence_date": "2026-07-20",
+      "evidence_summary": "Usage credits (weak signal for plan limits)"
+    },
+    {
+      "handle": "OpenAI",
+      "user_id": "4398626122",
+      "company": "OpenAI",
+      "role": "Official company account",
+      "evidence_url": "https://x.com/OpenAI/status/2065225362544726371",
+      "evidence_date": "2026-06-12",
+      "evidence_summary": "Codex saved rate-limit resets"
+    },
+    {
+      "handle": "OpenAIDevs",
+      "user_id": "1633874951508721686",
+      "company": "OpenAI",
+      "role": "Official developer account",
+      "evidence_url": "https://x.com/OpenAIDevs/status/2065225647358886118",
+      "evidence_date": "2026-06-12",
+      "evidence_summary": "Codex referral resets"
+    },
+    {
+      "handle": "thsottiaux",
+      "user_id": "1953337039510003712",
+      "company": "OpenAI",
+      "role": "Codex lead (Tibo)",
+      "evidence_url": "https://x.com/thsottiaux/status/2077114635308986427",
+      "evidence_date": "2026-07-14",
+      "evidence_summary": "Codex usage limit reset for all"
+    },
+    {
+      "handle": "embirico",
+      "user_id": "413490474",
+      "company": "OpenAI",
+      "role": "Codex product lead",
+      "evidence_url": "https://x.com/embirico/status/2105103892933673132",
+      "evidence_date": "2026-09-30",
+      "evidence_summary": "Explains pricing of 'dots' in Pro/Plus"
+    },
+    {
+      "handle": "sama",
+      "user_id": "1605",
+      "company": "OpenAI",
+      "role": "CEO",
+      "evidence_url": "https://x.com/sama/status/2046808596969853103",
+      "evidence_date": "2026-04-22",
+      "evidence_summary": "Teases rate limit reset"
+    },
+    {
+      "handle": "cursor_ai",
+      "user_id": "1695890961094909952",
+      "company": "Cursor",
+      "role": "Official account",
+      "evidence_url": "https://x.com/cursor_ai/status/2109783879490191502",
+      "evidence_date": "2026-10-12",
+      "evidence_summary": "Cursor joins X Subscription"
+    },
+    {
+      "handle": "leerob",
+      "user_id": "81712767",
+      "company": "Cursor",
+      "role": "DevRel / product",
+      "evidence_url": "https://x.com/leerob/status/2092276970226671789",
+      "evidence_date": "2026-08-25",
+      "evidence_summary": "Increased included Grok usage"
+    },
+    {
+      "handle": "ericzakariasson",
+      "user_id": "505835394",
+      "company": "Cursor",
+      "role": "Developer experience / community",
+      "evidence_url": "https://x.com/ericzakariasson/status/2094696129552429303",
+      "evidence_date": "2026-09-01",
+      "evidence_summary": "Usage limit feedback roundup"
+    },
+    {
+      "handle": "mntruell",
+      "user_id": "2755860644",
+      "company": "Cursor",
+      "role": "CEO / co-founder",
+      "evidence_url": "https://x.com/mntruell/status/2057490314143932846",
+      "evidence_date": "2026-05-21",
+      "evidence_summary": "Doubled Teams usage promo"
+    },
+    {
+      "handle": "github",
+      "user_id": "13334762",
+      "company": "GitHub",
+      "role": "Official account",
+      "evidence_url": "https://x.com/github/status/2048794729274278258",
+      "evidence_date": "2026-04-27",
+      "evidence_summary": "Copilot moves to usage-based billing June 1"
+    },
+    {
+      "handle": "kdaigle",
+      "user_id": "4958621",
+      "company": "GitHub",
+      "role": "COO",
+      "evidence_url": "https://x.com/kdaigle/status/2020211623278047370",
+      "evidence_date": "2026-02-07",
+      "evidence_summary": "Copilot fast mode rollout"
+    },
+    {
+      "handle": "cognition",
+      "user_id": "1751810001751183361",
+      "company": "Cognition (Devin/Windsurf)",
+      "role": "Official account",
+      "evidence_url": "https://x.com/cognition/status/2108692010056188048",
+      "evidence_date": "2026-10-09",
+      "evidence_summary": "Use ChatGPT plans in Devin"
+    },
+    {
+      "handle": "GeminiApp",
+      "user_id": "1806359170830172162",
+      "company": "Google",
+      "role": "Official Gemini account",
+      "evidence_url": "https://x.com/GeminiApp/status/2056792679607103626",
+      "evidence_date": "2026-05-19",
+      "evidence_summary": "AI Ultra $250->$200, new $100 tier"
+    },
+    {
+      "handle": "joshwoodward",
+      "user_id": "206546319",
+      "company": "Google",
+      "role": "VP, Gemini app / Labs",
+      "evidence_url": "https://x.com/joshwoodward/status/2014566936479437173",
+      "evidence_date": "2026-01-23",
+      "evidence_summary": "Boosted Ultra daily limits"
+    },
+    {
+      "handle": "antigravity",
+      "user_id": "1965856473084473347",
+      "company": "Google",
+      "role": "Official Antigravity account",
+      "evidence_url": "https://x.com/antigravity/status/2031835833716625883",
+      "evidence_date": "2026-03-11",
+      "evidence_summary": "AI plans with built-in AI credits"
+    },
+    {
+      "handle": "googleaidevs",
+      "user_id": "1780784281561726976",
+      "company": "Google",
+      "role": "Official developer account",
+      "evidence_url": "https://x.com/googleaidevs/status/2046341779545571754",
+      "evidence_date": "2026-04-20",
+      "evidence_summary": "AI Studio in Pro/Ultra, higher limits"
+    },
+    {
+      "handle": "OfficialLoganK",
+      "user_id": "284333988",
+      "company": "Google",
+      "role": "AI Studio / Gemini API product lead",
+      "evidence_url": "https://x.com/OfficialLoganK/status/2033587769759416425",
+      "evidence_date": "2026-03-16",
+      "evidence_summary": "API spend caps, rate limit dashboards"
+    },
+    {
+      "handle": "kirodotdev",
+      "user_id": "1920136890772262912",
+      "company": "Kiro (AWS)",
+      "role": "Official account",
+      "evidence_url": "https://x.com/kirodotdev/status/2065162171684684055",
+      "evidence_date": "2026-06-11",
+      "evidence_summary": "New Kiro Pro Max tier"
+    },
+    {
+      "handle": "sqs",
+      "user_id": "784008",
+      "company": "Amp",
+      "role": "CEO / co-founder",
+      "evidence_url": "https://x.com/sqs/status/2008685252215271729",
+      "evidence_date": "2026-01-06",
+      "evidence_summary": "Free tier policy changes"
+    },
+    {
+      "handle": "zeddotdev",
+      "user_id": "1471128655699062784",
+      "company": "Zed",
+      "role": "Official account",
+      "evidence_url": "https://x.com/zeddotdev/status/2055335727483781624",
+      "evidence_date": "2026-05-15",
+      "evidence_summary": "ChatGPT subscription in Zed agent"
+    },
+    {
+      "handle": "grok",
+      "user_id": "1720665183188922368",
+      "company": "xAI",
+      "role": "Official Grok account",
+      "evidence_url": "https://x.com/grok/status/2099406578105364637",
+      "evidence_date": "2026-09-14",
+      "evidence_summary": "Rate limit guidance reply (noisy, replies to many)"
+    }
+  ],
+  "candidates_no_evidence_yet": [
+    {
+      "handle": "GitHubCopilot",
+      "user_id": "1409404333448318978",
+      "company": "GitHub"
+    },
+    {
+      "handle": "AmpCode",
+      "user_id": "1901022787164401666",
+      "company": "Amp"
+    },
+    {
+      "handle": "xai",
+      "user_id": "2074186776130859008",
+      "company": "xAI"
+    },
+    {
+      "handle": "windsurf",
+      "user_id": "2054283995450380288",
+      "company": "Windsurf (account labelled retired)"
+    }
+  ],
+  "queries": [
+    "(from:claudeai OR from:AnthropicAI OR from:alexalbert__ OR from:bcherny OR from:_catwu OR from:OpenAI OR from:OpenAIDevs OR from:thsottiaux OR from:embirico OR from:sama) (limit OR limits OR \"rate limit\" OR pricing OR price OR plan OR plans OR usage OR quota OR reset) -is:retweet",
+    "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
+    "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
+  ]
+}
