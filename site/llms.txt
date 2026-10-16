@@ -17,9 +17,11 @@
 - [OpenAI Codex](https://quotawatch.vercel.app/tools/codex/)
 - [Windsurf](https://quotawatch.vercel.app/tools/windsurf/)
 - [Gemini CLI](https://quotawatch.vercel.app/tools/gemini-cli/)
+- [Grok / The X Subscription](https://quotawatch.vercel.app/tools/x-subscription/)
 
 ## Changes
-- 2026-10-11 Cursor: [Cursor folds into The X Subscription: Plus $8, Premium $30, Super $100, Ultra $200; legacy Pro $20 / Pro+ $60 closed to new customers](https://quotawatch.vercel.app/changes/2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu/) (official)
+- 2026-10-12 Cursor: [Cursor folds into The X Subscription: Plus $8, Premium $30, Super $100, Ultra $200; legacy Pro $20 / Pro+ $60 closed to new customers](https://quotawatch.vercel.app/changes/2026-10-12-cursor-joins-the-x-subscription/) (official)
+- 2026-10-12 X Subscription: [The X Subscription launches: one plan across Grok, Cursor and X Premium (Free, Plus $8, Premium $30, Super $100, Ultra $200)](https://quotawatch.vercel.app/changes/2026-10-12-x-subscription-launch/) (official)
 - 2026-09-29 Codex: [ChatGPT Pro adds $500 tier; Pro 200 reopens with lower allowance for new non-grandfathered subs](https://quotawatch.vercel.app/changes/2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low/) (official)
 - 2026-09-14 Claude: [Claude Code weekly limits: permanent +25% vs pre-promo baseline, about 17% below the promo level](https://quotawatch.vercel.app/changes/2026-09-14-claude-claude-code-weekly-limits-settle-at-25-vs-pre-prom/) (official)
 - 2026-06-18 Gemini CLI: [Gemini CLI replaced by Antigravity CLI for unpaid and Google One users](https://quotawatch.vercel.app/changes/2026-06-18-gemini-cli-gemini-cli-replaced-by-antigravity-cli-for-unpaid/) (official)

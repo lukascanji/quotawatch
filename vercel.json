@@ -1,1 +1,14 @@
-{"buildCommand":"node scripts/build.mjs","outputDirectory":"site","framework":null,"cleanUrls":true,"trailingSlash":true}
+{
+ "buildCommand": "node scripts/build.mjs",
+ "outputDirectory": "site",
+ "framework": null,
+ "cleanUrls": true,
+ "trailingSlash": true,
+ "redirects": [
+  {
+   "source": "/changes/2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu/",
+   "destination": "/changes/2026-10-12-cursor-joins-the-x-subscription/",
+   "permanent": true
+  }
+ ]
+}

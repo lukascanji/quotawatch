@@ -270,6 +270,99 @@
    "checked": "2026-10-16",
    "audience": "individual",
    "tier": "light"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Free",
+   "audience": "individual",
+   "tier": "light",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_month": 0,
+   "usd_year": 0,
+   "metering": "Limited usage",
+   "quote": "Free | $0/mo | $0/yr"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Plus",
+   "audience": "individual",
+   "tier": "light",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_month": 8,
+   "usd_year": 80,
+   "metering": "Base usage (1x); Grok models only; shared pool across Grok, Cursor (Grok models), Grok Build; third-party models in Cursor use top-up credits",
+   "quote": "Plus | $8/mo | $80/yr"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Premium",
+   "audience": "individual",
+   "tier": "daily",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_month": 30,
+   "usd_year": 300,
+   "metering": "4x Plus; shared pool across Grok, Cursor (Grok models), Grok Build; third-party models in Cursor use top-up credits",
+   "quote": "Premium | $30/mo | $300/yr"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Super",
+   "audience": "individual",
+   "tier": "heavy",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_month": 100,
+   "usd_year": 1000,
+   "metering": "15x Plus; shared pool across Grok, Cursor (Grok models), Grok Build; third-party models in Cursor use top-up credits",
+   "quote": "Super | $100/mo | $1000/yr"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Ultra",
+   "audience": "individual",
+   "tier": "heavy",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_month": 200,
+   "usd_year": 2000,
+   "metering": "50x Plus; shared pool across Grok, Cursor (Grok models), Grok Build; third-party models in Cursor use top-up credits",
+   "quote": "Ultra | $200/mo | $2000/yr"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Premium (team)",
+   "audience": "team",
+   "tier": "none",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_seat_month": 30,
+   "metering": "4x Plus per seat; same usage as matching individual tier; Plus not available for teams",
+   "quote": "Team plans are available on Premium at $30 per seat"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Super (team)",
+   "audience": "team",
+   "tier": "none",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_seat_month": 100,
+   "metering": "15x Plus per seat; same usage as matching individual tier; Plus not available for teams",
+   "quote": "Team plans are available on Super at $100 per seat"
+  },
+  {
+   "tool": "x-subscription",
+   "plan": "Ultra (team)",
+   "audience": "team",
+   "tier": "none",
+   "source": "https://docs.x.ai/x-subscription/pricing",
+   "checked": "2026-10-16",
+   "usd_seat_month": 200,
+   "metering": "50x Plus per seat; same usage as matching individual tier; Plus not available for teams",
+   "quote": "Team plans are available on Ultra at $200 per seat"
   }
  ]
 }

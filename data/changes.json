@@ -34,22 +34,26 @@
    ]
   },
   {
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "tool": "cursor",
    "type": "plan",
    "title": "Cursor folds into The X Subscription: Plus $8, Premium $30, Super $100, Ultra $200; legacy Pro $20 / Pro+ $60 closed to new customers",
    "before": "Hobby free, Pro $20, Pro+ $60, Ultra $200, Teams $40/$120",
    "after": "Plus $8, Premium $30, Super $100, Ultra $200; Teams $30/$100/$200 per seat; existing subs keep legacy plans",
-   "source": "https://x.ai/news/x-subscription",
+   "source": "https://x.com/cursor_ai/status/2109783879490191502",
    "extra_sources": [
+    "https://x.com/SpaceXSI/status/2109783335296008414",
+    "https://x.ai/news/x-subscription",
     "https://prod.cursor.com/help/account-and-billing/pricing",
     "https://docs.x.ai/x-subscription/pricing"
    ],
    "confidence": "official",
-   "slug": "2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu",
-   "notes": "official; date approximate (announcement undated on page; docs 'Last updated October 11, 2026')",
-   "quote": "Plus $8/month ... Premium $30/month ... Super $100/month ... Ultra $200/month",
-   "source_type": "vendor_page"
+   "slug": "2026-10-12-cursor-joins-the-x-subscription",
+   "notes": "Announced on X 2026-10-12 ~7:08-7:10 PM ET (SpaceXSI + cursor_ai). Earlier recorded as ~Oct 11 from docs date.",
+   "quote": "Cursor is now part of The X Subscription. Current Cursor subscribers can keep their plan or switch to The X Subscription.",
+   "source_type": "x_post",
+   "x_account": "cursor_ai",
+   "quote_2": "Paid plans share one usage pool across Cursor, Grok Build, and other Grok products, with twice the coding usage on Grok models as the equivalent Cursor [plan]."
   },
   {
    "date": "2026-09-29",
@@ -73,6 +77,29 @@
    "slug": "2026-06-18-gemini-cli-gemini-cli-replaced-by-antigravity-cli-for-unpaid",
    "source_type": "vendor_page",
    "quote": "Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026."
+  },
+  {
+   "date": "2026-10-12",
+   "tool": "x-subscription",
+   "type": "plan",
+   "title": "The X Subscription launches: one plan across Grok, Cursor and X Premium (Free, Plus $8, Premium $30, Super $100, Ultra $200)",
+   "before": "Separate SuperGrok, Cursor and X Premium subscriptions",
+   "after": "Free $0, Plus $8, Premium $30 (4x), Super $100 (15x), Ultra $200 (50x) per month; yearly $80/$300/$1000/$2000; teams on Premium/Super/Ultra per seat; one shared usage pool across Grok, Cursor and Grok Build",
+   "source": "https://x.com/SpaceXSI/status/2109783335296008414",
+   "source_type": "x_post",
+   "x_account": "SpaceXSI",
+   "confidence": "official",
+   "quote": "We've unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.",
+   "quote_2": "The shared included usage pool covers Grok Bot usage, and Grok models across Grok and Cursor. ... Third-party models in Cursor aren't part of the included usage, so they use these credits from the first use.",
+   "extra_sources": [
+    "https://x.ai/news/x-subscription",
+    "https://docs.x.ai/x-subscription/pricing",
+    "https://x.com/cursor_ai/status/2109783879490191502"
+   ],
+   "related_tools": [
+    "cursor"
+   ],
+   "slug": "2026-10-12-x-subscription-launch"
   }
  ]
 }
