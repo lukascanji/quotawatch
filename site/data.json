@@ -363,6 +363,44 @@
    "usd_seat_month": 200,
    "metering": "50x Plus per seat; same usage as matching individual tier; Plus not available for teams",
    "quote": "Team plans are available on Ultra at $200 per seat"
+  },
+  {
+   "tool": "antigravity",
+   "plan": "Free",
+   "usd_month": 0,
+   "metering": "weekly-refreshed quota + weekly rate limit; Gemini 3.8 Flash (Claude 4.6 and GPT-OSS-120b until Nov 2, 2026)",
+   "source": "https://antigravity.google/docs/plans/",
+   "quote": "Users not on Google AI Pro or Ultra plans receive the following benefits: A meaningful quota, refreshed weekly; A weekly rate limit",
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
+  },
+  {
+   "tool": "antigravity",
+   "plan": "Google AI Pro",
+   "usd_month": 19.99,
+   "metering": "quota refreshed every 5 hours up to a weekly limit; separate weekly-only Gemini 4 Argon quota (paid, non-trial subs only); AI credits for overage",
+   "source": "https://antigravity.google/docs/plans/",
+   "quote": "A high, generous quota, refreshed every five hours until the weekly limit is reached; A higher weekly rate limit",
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "daily",
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Pro $19.99/mo"
+  },
+  {
+   "tool": "antigravity",
+   "plan": "Google AI Ultra (5x / 20x)",
+   "usd_month": null,
+   "usd_month_from": 99.99,
+   "metering": "highest quota refreshed every 5 hours, highest weekly limits, third-party models; Ultra 5x $99.99/mo, Ultra 20x $199.99/mo",
+   "source": "https://antigravity.google/docs/plans/",
+   "quote": "The highest, most generous quota, refreshed every five hours; The highest weekly rate limits; Access to third-party models",
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy",
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Ultra 5x $99.99/mo | Google AI Ultra 20x $199.99/mo"
   }
  ],
  "changes": [
@@ -463,6 +501,28 @@
     "cursor"
    ],
    "slug": "2026-10-12-x-subscription-launch"
+  },
+  {
+   "date": "2026-10-15",
+   "tool": "antigravity",
+   "type": "limit",
+   "title": "Antigravity adds Gemini 4 Argon for paid Google AI Pro, with a separate weekly-only Argon quota",
+   "before": "Google AI Pro: one Gemini quota (Gemini 3.8 Flash), refreshed every 5 hours up to a weekly limit; Argon not yet available on Pro in Antigravity",
+   "after": "Paid (non-trial) Google AI Pro also gets Gemini 4 Argon with its own weekly-only quota on top of the 3.8 Flash bucket; free Pro trials are excluded; Gemini 3.1 Pro, 3.6 Flash and 3.7 Flash retired outside Enterprise",
+   "source": "https://x.com/antigravity/status/2110866531932316011",
+   "source_type": "x_post",
+   "x_account": "antigravity",
+   "confidence": "official",
+   "quote": "We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. ... We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash",
+   "quote_2": "Available on Google AI Pro for non-trial subscriptions only.",
+   "extra_sources": [
+    "https://antigravity.google/docs/models/",
+    "https://antigravity.google/docs/plans/",
+    "https://antigravity.google/blog/gemini-4-argon-in-google-antigravity/",
+    "https://discuss.ai.google.dev/t/gemini-4-argon-ultra/188901/9",
+    "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/"
+   ],
+   "slug": "2026-10-15-antigravity-gemini-4-argon-weekly-quota-for-google-ai-pro"
   }
  ]
 }

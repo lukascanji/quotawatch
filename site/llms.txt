@@ -1,6 +1,6 @@
 # QuotaWatch
 
-> Independent, dated and sourced tracker of AI coding plan prices and usage limits (Claude, GitHub Copilot, Cursor, OpenAI Codex, Windsurf, Gemini CLI). Every value links to a vendor page or official vendor X post, with an exact quote and check date. Last checked 2026-10-16.
+> Independent, dated and sourced tracker of AI coding plan prices and usage limits (Claude, GitHub Copilot, Cursor, OpenAI Codex, Windsurf, Gemini CLI, Google Antigravity). Every value links to a vendor page or official vendor X post, with an exact quote and check date. Last checked 2026-10-16.
 
 ## Data
 - [Full dataset (JSON)](https://quotawatch.vercel.app/data.json): plans and changes, machine-readable
@@ -17,9 +17,11 @@
 - [OpenAI Codex](https://quotawatch.vercel.app/tools/codex/)
 - [Windsurf](https://quotawatch.vercel.app/tools/windsurf/)
 - [Gemini CLI](https://quotawatch.vercel.app/tools/gemini-cli/)
+- [Google Antigravity](https://quotawatch.vercel.app/tools/antigravity/)
 - [Grok / The X Subscription](https://quotawatch.vercel.app/tools/x-subscription/)
 
 ## Changes
+- 2026-10-15 Antigravity: [Antigravity adds Gemini 4 Argon for paid Google AI Pro, with a separate weekly-only Argon quota](https://quotawatch.vercel.app/changes/2026-10-15-antigravity-gemini-4-argon-weekly-quota-for-google-ai-pro/) (official)
 - 2026-10-12 Cursor: [Cursor folds into The X Subscription: Plus $8, Premium $30, Super $100, Ultra $200; legacy Pro $20 / Pro+ $60 closed to new customers](https://quotawatch.vercel.app/changes/2026-10-12-cursor-joins-the-x-subscription/) (official)
 - 2026-10-12 X Subscription: [The X Subscription launches: one plan across Grok, Cursor and X Premium (Free, Plus $8, Premium $30, Super $100, Ultra $200)](https://quotawatch.vercel.app/changes/2026-10-12-x-subscription-launch/) (official)
 - 2026-09-29 Codex: [ChatGPT Pro adds $500 tier; Pro 200 reopens with lower allowance for new non-grandfathered subs](https://quotawatch.vercel.app/changes/2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low/) (official)

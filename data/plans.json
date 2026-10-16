@@ -363,6 +363,44 @@
    "usd_seat_month": 200,
    "metering": "50x Plus per seat; same usage as matching individual tier; Plus not available for teams",
    "quote": "Team plans are available on Ultra at $200 per seat"
+  },
+  {
+   "tool": "antigravity",
+   "plan": "Free",
+   "usd_month": 0,
+   "metering": "weekly-refreshed quota + weekly rate limit; Gemini 3.8 Flash (Claude 4.6 and GPT-OSS-120b until Nov 2, 2026)",
+   "source": "https://antigravity.google/docs/plans/",
+   "quote": "Users not on Google AI Pro or Ultra plans receive the following benefits: A meaningful quota, refreshed weekly; A weekly rate limit",
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "light"
+  },
+  {
+   "tool": "antigravity",
+   "plan": "Google AI Pro",
+   "usd_month": 19.99,
+   "metering": "quota refreshed every 5 hours up to a weekly limit; separate weekly-only Gemini 4 Argon quota (paid, non-trial subs only); AI credits for overage",
+   "source": "https://antigravity.google/docs/plans/",
+   "quote": "A high, generous quota, refreshed every five hours until the weekly limit is reached; A higher weekly rate limit",
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "daily",
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Pro $19.99/mo"
+  },
+  {
+   "tool": "antigravity",
+   "plan": "Google AI Ultra (5x / 20x)",
+   "usd_month": null,
+   "usd_month_from": 99.99,
+   "metering": "highest quota refreshed every 5 hours, highest weekly limits, third-party models; Ultra 5x $99.99/mo, Ultra 20x $199.99/mo",
+   "source": "https://antigravity.google/docs/plans/",
+   "quote": "The highest, most generous quota, refreshed every five hours; The highest weekly rate limits; Access to third-party models",
+   "checked": "2026-10-16",
+   "audience": "individual",
+   "tier": "heavy",
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Ultra 5x $99.99/mo | Google AI Ultra 20x $199.99/mo"
   }
  ]
 }
