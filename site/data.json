@@ -236,24 +236,29 @@
   {
    "tool": "gemini-cli",
    "plan": "Google AI Pro",
-   "usd_month": null,
-   "metering": "1,500 requests/user/day (price not on this page)",
+   "usd_month": 19.99,
+   "metering": "1,500 Gemini CLI requests/user/day",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Google AI Pro | 1,500 requests",
    "checked": "2026-10-16",
    "audience": "individual",
-   "tier": "none"
+   "tier": "daily",
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Pro $19.99/mo"
   },
   {
    "tool": "gemini-cli",
-   "plan": "Google AI Ultra",
+   "plan": "Google AI Ultra (5x / 20x)",
    "usd_month": null,
-   "metering": "2,000 requests/user/day (price not on this page)",
+   "metering": "2,000 Gemini CLI requests/user/day; Ultra 5x $99.99/mo, Ultra 20x $199.99/mo",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Google AI Ultra | 2,000 requests",
    "checked": "2026-10-16",
    "audience": "individual",
-   "tier": "none"
+   "tier": "heavy",
+   "usd_month_from": 99.99,
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Ultra 5x $99.99/mo | Google AI Ultra 20x $199.99/mo"
   },
   {
    "tool": "gemini-cli",
@@ -275,16 +280,30 @@
    "title": "Copilot moves to usage-based GitHub AI Credits; base prices unchanged",
    "source": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
    "confidence": "official",
-   "slug": "2026-06-01-copilot-copilot-moves-to-usage-based-github-ai-credits-bas"
+   "slug": "2026-06-01-copilot-copilot-moves-to-usage-based-github-ai-credits-bas",
+   "source_type": "vendor_page",
+   "quote": "Starting June 1, premium request units (PRUs) will be replaced by GitHub AI Credits. ... Base plan pricing is not changing. Copilot Pro remains $10/month, Pro+ remains $39/month, Business remains $19/user/month, and Enterprise remains $39/user/month.",
+   "before": "Premium request units (PRUs) with model multipliers",
+   "after": "GitHub AI Credits (token-based, at API rates); base prices unchanged"
   },
   {
    "date": "2026-09-14",
    "tool": "claude",
    "type": "limit",
-   "title": "Claude Code weekly limits settle at +25% vs pre-promo baseline (−17% vs promo)",
-   "source": "https://reveneau.com/insights/the-14-september-2026-change-to-claude-code-weekly-limits",
-   "confidence": "reported",
-   "slug": "2026-09-14-claude-claude-code-weekly-limits-settle-at-25-vs-pre-prom"
+   "title": "Claude Code weekly limits: permanent +25% vs pre-promo baseline, about 17% below the promo level",
+   "source": "https://x.com/ClaudeDevs/status/2093742321473065266",
+   "confidence": "official",
+   "slug": "2026-09-14-claude-claude-code-weekly-limits-settle-at-25-vs-pre-prom",
+   "source_type": "x_post",
+   "x_account": "ClaudeDevs",
+   "quote": "Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be in place.",
+   "quote_2": "Compared to today, this works out to a 17% reduction in weekly limits on Claude Code.",
+   "before": "Temporary +50% weekly limit promotion (May 13 to Sep 13, 2026)",
+   "after": "Weekly limits +25% vs pre-promotion baseline for Pro, Max, Team and seat-based Enterprise; 5-hour limits unchanged",
+   "extra_sources": [
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+    "https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan"
+   ]
   },
   {
    "date": "2026-10-11",
@@ -300,7 +319,8 @@
    ],
    "confidence": "official",
    "slug": "2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu",
-   "quote": "Plus $8/month ... Premium $30/month ... Super $100/month ... Ultra $200/month"
+   "quote": "Plus $8/month ... Premium $30/month ... Super $100/month ... Ultra $200/month",
+   "source_type": "vendor_page"
   },
   {
    "date": "2026-09-29",
@@ -310,7 +330,8 @@
    "source": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
    "confidence": "official",
    "slug": "2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low",
-   "quote": "Pro 100 | $100 ... Pro 200 | $200 ... Pro 500 | $500"
+   "quote": "Pro 100 | $100 ... Pro 200 | $200 ... Pro 500 | $500",
+   "source_type": "vendor_page"
   },
   {
    "date": "2026-06-18",
@@ -319,7 +340,9 @@
    "title": "Gemini CLI replaced by Antigravity CLI for unpaid and Google One users",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "confidence": "official",
-   "slug": "2026-06-18-gemini-cli-gemini-cli-replaced-by-antigravity-cli-for-unpaid"
+   "slug": "2026-06-18-gemini-cli-gemini-cli-replaced-by-antigravity-cli-for-unpaid",
+   "source_type": "vendor_page",
+   "quote": "Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026."
   }
  ]
 }

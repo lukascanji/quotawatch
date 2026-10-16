@@ -236,24 +236,29 @@
   {
    "tool": "gemini-cli",
    "plan": "Google AI Pro",
-   "usd_month": null,
-   "metering": "1,500 requests/user/day (price not on this page)",
+   "usd_month": 19.99,
+   "metering": "1,500 Gemini CLI requests/user/day",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Google AI Pro | 1,500 requests",
    "checked": "2026-10-16",
    "audience": "individual",
-   "tier": "none"
+   "tier": "daily",
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Pro $19.99/mo"
   },
   {
    "tool": "gemini-cli",
-   "plan": "Google AI Ultra",
+   "plan": "Google AI Ultra (5x / 20x)",
    "usd_month": null,
-   "metering": "2,000 requests/user/day (price not on this page)",
+   "metering": "2,000 Gemini CLI requests/user/day; Ultra 5x $99.99/mo, Ultra 20x $199.99/mo",
    "source": "https://geminicli.com/docs/resources/quota-and-pricing",
    "quote": "Google AI Ultra | 2,000 requests",
    "checked": "2026-10-16",
    "audience": "individual",
-   "tier": "none"
+   "tier": "heavy",
+   "usd_month_from": 99.99,
+   "price_source": "https://one.google.com/about/google-ai-plans/",
+   "price_quote": "Google AI Ultra 5x $99.99/mo | Google AI Ultra 20x $199.99/mo"
   },
   {
    "tool": "gemini-cli",

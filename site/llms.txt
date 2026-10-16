@@ -1,0 +1,26 @@
+# QuotaWatch
+
+> Independent, dated and sourced tracker of AI coding plan prices and usage limits (Claude, GitHub Copilot, Cursor, OpenAI Codex, Windsurf, Gemini CLI). Every value links to a vendor page or official vendor X post, with an exact quote and check date. Last checked 2026-10-16.
+
+## Data
+- [Full dataset (JSON)](https://quotawatch.vercel.app/data.json): plans and changes, machine-readable
+- [Changes RSS](https://quotawatch.vercel.app/feed.xml)
+
+## Pages
+- [All plans](https://quotawatch.vercel.app/): comparison table
+- [Best plan finder](https://quotawatch.vercel.app/best-plan/)
+- [Changelog](https://quotawatch.vercel.app/changes/)
+- [Methodology](https://quotawatch.vercel.app/methodology/)
+- [Claude (Anthropic)](https://quotawatch.vercel.app/tools/claude/)
+- [GitHub Copilot](https://quotawatch.vercel.app/tools/copilot/)
+- [Cursor](https://quotawatch.vercel.app/tools/cursor/)
+- [OpenAI Codex](https://quotawatch.vercel.app/tools/codex/)
+- [Windsurf](https://quotawatch.vercel.app/tools/windsurf/)
+- [Gemini CLI](https://quotawatch.vercel.app/tools/gemini-cli/)
+
+## Changes
+- 2026-10-11 Cursor: [Cursor folds into The X Subscription: Plus $8, Premium $30, Super $100, Ultra $200; legacy Pro $20 / Pro+ $60 closed to new customers](https://quotawatch.vercel.app/changes/2026-10-11-cursor-cursor-folds-into-the-x-subscription-plus-8-premiu/) (official)
+- 2026-09-29 Codex: [ChatGPT Pro adds $500 tier; Pro 200 reopens with lower allowance for new non-grandfathered subs](https://quotawatch.vercel.app/changes/2026-09-29-codex-chatgpt-pro-adds-500-tier-pro-200-reopens-with-low/) (official)
+- 2026-09-14 Claude: [Claude Code weekly limits: permanent +25% vs pre-promo baseline, about 17% below the promo level](https://quotawatch.vercel.app/changes/2026-09-14-claude-claude-code-weekly-limits-settle-at-25-vs-pre-prom/) (official)
+- 2026-06-18 Gemini CLI: [Gemini CLI replaced by Antigravity CLI for unpaid and Google One users](https://quotawatch.vercel.app/changes/2026-06-18-gemini-cli-gemini-cli-replaced-by-antigravity-cli-for-unpaid/) (official)
+- 2026-06-01 Copilot: [Copilot moves to usage-based GitHub AI Credits; base prices unchanged](https://quotawatch.vercel.app/changes/2026-06-01-copilot-copilot-moves-to-usage-based-github-ai-credits-bas/) (official)
