@@ -264,11 +264,18 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-16T20:05:00Z",
+  "last_checked": "2026-10-17T00:05:00Z",
   "last_seen_ids": [
-    "2110841901121511705",
-    "2111156078293737607",
+    "2111244596131111253",
+    "2111218918362861958",
     "2110866531932316011"
   ],
-  "last_seen_id": "2111156078293737607"
+  "last_seen_id": "2111244596131111253",
+  "unlogged_leads": [
+    {
+      "date": "2026-10-16",
+      "url": "https://x.com/thsottiaux/status/2111244596131111253",
+      "summary": "Codex lead says caching/context reuse/routing improvements increase effective Codex & Work usage; no stated limit numbers and no changelog entry as of 2026-10-17 00:05Z. Not logged; watch for a concrete limit change."
+    }
+  ]
 }
