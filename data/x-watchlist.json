@@ -264,10 +264,10 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-19T16:29:00Z",
+  "last_checked": "2026-10-19T20:03:00Z",
   "last_seen_ids": [
     "2111492673890824348",
-    "2111218918362861958",
+    "2112223938709258558",
     "2110866531932316011"
   ],
   "last_seen_id": "2111492673890824348",
@@ -281,6 +281,11 @@
       "date": "2026-10-17",
       "url": "https://x.com/thsottiaux/status/2111492673890824348",
       "summary": "Codex lead 'Day 13/ Le limit reset': another one-off usage reset for paid Codex/ChatGPT Work accounts, part of his 28-day 'ship an improvement or a full reset each day' series that began 2026-10-04 (https://x.com/thsottiaux/status/2106845241357824205; prior resets Day 3, 6, 8, 10). Temporary reset, not a change to plan limits or pricing, so not logged as a change; revisit if the series ends with a permanent limit change."
+    },
+    {
+      "date": "2026-10-19",
+      "url": "https://x.com/cognition/status/2112223929414607228",
+      "summary": "Cognition launched efficiency-based auto-approvals (Efficiency Score, productive hours per ACU) and Devin Coach for team usage management; an admin-control feature, not a change to Devin plan prices or limits. Not logged."
     }
   ]
 }
