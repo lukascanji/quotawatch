@@ -1,6 +1,6 @@
 # QuotaWatch
 
-> Independent, dated and sourced tracker of AI coding plan prices and usage limits (Claude, GitHub Copilot, Cursor, OpenAI Codex, Windsurf, Gemini CLI, Google Antigravity). Every value links to a vendor page or official vendor X post, with an exact quote and check date. Last checked 2026-10-16.
+> Independent, dated and sourced tracker of AI coding plan prices and usage limits (Claude, GitHub Copilot, Cursor, OpenAI Codex, Windsurf, Gemini CLI, Google Antigravity). Every value links to a vendor page or official vendor X post, with an exact quote and check date. Last checked 2026-10-16. Data last reviewed 2026-10-16.
 
 ## Data
 - [Full dataset (JSON)](https://quotawatch.vercel.app/data.json): plans and changes, machine-readable
