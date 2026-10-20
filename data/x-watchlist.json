@@ -264,11 +264,11 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-19T20:03:00Z",
+  "last_checked": "2026-10-20T00:08:00Z",
   "last_seen_ids": [
     "2111492673890824348",
-    "2112223938709258558",
-    "2110866531932316011"
+    "2112290148205436979",
+    "2112285728394904032"
   ],
   "last_seen_id": "2111492673890824348",
   "unlogged_leads": [
