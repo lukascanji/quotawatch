@@ -264,13 +264,13 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-20T16:03:00Z",
+  "last_checked": "2026-10-20T20:08:00Z",
   "last_seen_ids": [
-    "2112432076767289678",
+    "2112592264686149749",
     "2112290148205436979",
     "2112285728394904032"
   ],
-  "last_seen_id": "2112432076767289678",
+  "last_seen_id": "2112592264686149749",
   "unlogged_leads": [
     {
       "date": "2026-10-16",
@@ -291,6 +291,11 @@
       "date": "2026-10-20",
       "url": "https://x.com/thsottiaux/status/2112432076767289678",
       "summary": "Codex lead 'Day 15/ ... and reset': another one-off Codex usage reset in the same 28-day series (follows 'Day 15/ We're cooked' https://x.com/thsottiaux/status/2112268918681485431). Temporary reset, not a plan limit or pricing change. Not logged."
+    },
+    {
+      "date": "2026-10-20",
+      "url": "https://x.com/thsottiaux/status/2112592264686149749",
+      "summary": "Codex lead says ~40,000 accounts had a bug over the weekend where applied usage limits did not match their selected plan (usage drained faster than expected). Incident/bug fix, not a change to plan limits or pricing. Not logged; watch for a follow-up compensation reset or any permanent limit change."
     }
   ]
 }
