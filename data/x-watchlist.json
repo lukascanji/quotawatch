@@ -264,13 +264,13 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-20T00:08:00Z",
+  "last_checked": "2026-10-20T16:03:00Z",
   "last_seen_ids": [
-    "2111492673890824348",
+    "2112432076767289678",
     "2112290148205436979",
     "2112285728394904032"
   ],
-  "last_seen_id": "2111492673890824348",
+  "last_seen_id": "2112432076767289678",
   "unlogged_leads": [
     {
       "date": "2026-10-16",
@@ -286,6 +286,11 @@
       "date": "2026-10-19",
       "url": "https://x.com/cognition/status/2112223929414607228",
       "summary": "Cognition launched efficiency-based auto-approvals (Efficiency Score, productive hours per ACU) and Devin Coach for team usage management; an admin-control feature, not a change to Devin plan prices or limits. Not logged."
+    },
+    {
+      "date": "2026-10-20",
+      "url": "https://x.com/thsottiaux/status/2112432076767289678",
+      "summary": "Codex lead 'Day 15/ ... and reset': another one-off Codex usage reset in the same 28-day series (follows 'Day 15/ We're cooked' https://x.com/thsottiaux/status/2112268918681485431). Temporary reset, not a plan limit or pricing change. Not logged."
     }
   ]
 }
