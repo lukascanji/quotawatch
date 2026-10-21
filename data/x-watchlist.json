@@ -264,13 +264,13 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-21T16:07:00Z",
+  "last_checked": "2026-10-21T20:03:00Z",
   "last_seen_ids": [
-    "2112798407928713717",
-    "2112651317294628911",
+    "2112984669943968099",
+    "2112979782652813783",
     "2112777759563174061"
   ],
-  "last_seen_id": "2112798407928713717",
+  "last_seen_id": "2112984669943968099",
   "unlogged_leads": [
     {
       "date": "2026-10-16",
@@ -296,6 +296,11 @@
       "date": "2026-10-20",
       "url": "https://x.com/thsottiaux/status/2112592264686149749",
       "summary": "Codex lead says ~40,000 accounts had a bug over the weekend where applied usage limits did not match their selected plan (usage drained faster than expected). Incident/bug fix, not a change to plan limits or pricing. Not logged; watch for a follow-up compensation reset or any permanent limit change."
+    },
+    {
+      "date": "2026-10-21",
+      "url": "https://x.com/claudeai/status/2112962252706124134",
+      "summary": "Claude launch thread: eligible orgs get $25K/month usage credits for two months through Dec 31, 2026 for a new multi-repo projects product. Limited promo credits, not a change to plan prices or limits. Not logged."
     }
   ]
 }
