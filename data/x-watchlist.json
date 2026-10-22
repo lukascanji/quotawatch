@@ -264,13 +264,13 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-22T00:03:00Z",
+  "last_checked": "2026-10-22T12:12:00Z",
   "last_seen_ids": [
-    "2113029854417600834",
+    "2113162277688070445",
     "2112979782652813783",
     "2112777759563174061"
   ],
-  "last_seen_id": "2113029854417600834",
+  "last_seen_id": "2113162277688070445",
   "unlogged_leads": [
     {
       "date": "2026-10-16",
@@ -306,6 +306,11 @@
       "date": "2026-10-21",
       "url": "https://x.com/thsottiaux/status/2113029854417600834",
       "summary": "Codex lead teaser 'Dot, Dotter, Dottest' (https://x.com/thsottiaux/status/2113029655095836957) with reply saying it is 'fully included in the Pro plan, doesn't draw on your weekly usage'. Vague feature teaser with no stated plan price or limit change. Not logged; watch for an official Codex/ChatGPT pricing page update about 'dots'."
+    },
+    {
+      "date": "2026-10-22",
+      "url": "https://x.com/thsottiaux/status/2113162277688070445",
+      "summary": "Codex lead 'Day 17/ ... reset day today': another one-off Codex usage reset in the same 28-day series. Temporary reset, not a plan limit or pricing change. Not logged. (Same run: bcherny reply 2113141937645769087 says 'No changes on our end' re Claude usage; nothing to log.)"
     }
   ]
 }
