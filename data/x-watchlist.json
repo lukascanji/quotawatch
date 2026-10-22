@@ -264,13 +264,13 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-22T16:01:00Z",
+  "last_checked": "2026-10-22T20:12:00Z",
   "last_seen_ids": [
-    "2113162277688070445",
-    "2112979782652813783",
+    "2113360845409583307",
+    "2113356323589075234",
     "2112777759563174061"
   ],
-  "last_seen_id": "2113162277688070445",
+  "last_seen_id": "2113360845409583307",
   "unlogged_leads": [
     {
       "date": "2026-10-16",
@@ -311,6 +311,11 @@
       "date": "2026-10-22",
       "url": "https://x.com/thsottiaux/status/2113162277688070445",
       "summary": "Codex lead 'Day 17/ ... reset day today': another one-off Codex usage reset in the same 28-day series. Temporary reset, not a plan limit or pricing change. Not logged. (Same run: bcherny reply 2113141937645769087 says 'No changes on our end' re Claude usage; nothing to log.)"
+    },
+    {
+      "date": "2026-10-22",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "summary": "Claude apps default to auto mode on Pro/Max/Team starting next week; a permissions/UX feature, not a plan price or limit change. Not logged. (Same run: Cognition https://x.com/cognition/status/2113356323589075234 offers remediation credits to Devin Enterprise customers for a security-fix plugin; one-off support credits, not a plan change. Not logged.)"
     }
   ]
 }
