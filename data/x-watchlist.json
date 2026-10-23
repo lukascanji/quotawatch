@@ -264,13 +264,13 @@
     "(from:cursor_ai OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:github OR from:GitHubCopilot OR from:kdaigle OR from:cognition OR from:windsurf) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR \"premium requests\" OR billing OR credits) -is:retweet",
     "(from:GeminiApp OR from:joshwoodward OR from:antigravity OR from:googleaidevs OR from:OfficialLoganK OR from:kirodotdev OR from:sqs OR from:AmpCode OR from:zeddotdev OR from:xai OR from:grok) (limit OR limits OR pricing OR price OR plan OR plans OR usage OR quota OR credits OR tier) -is:retweet -is:reply"
   ],
-  "last_checked": "2026-10-23T00:02:00Z",
+  "last_checked": "2026-10-23T12:01:00Z",
   "last_seen_ids": [
-    "2113360845409583307",
+    "2113492187770175603",
     "2113356323589075234",
     "2112777759563174061"
   ],
-  "last_seen_id": "2113360845409583307",
+  "last_seen_id": "2113492187770175603",
   "unlogged_leads": [
     {
       "date": "2026-10-16",
@@ -316,6 +316,11 @@
       "date": "2026-10-22",
       "url": "https://x.com/claudeai/status/2113360845409583307",
       "summary": "Claude apps default to auto mode on Pro/Max/Team starting next week; a permissions/UX feature, not a plan price or limit change. Not logged. (Same run: Cognition https://x.com/cognition/status/2113356323589075234 offers remediation credits to Devin Enterprise customers for a security-fix plugin; one-off support credits, not a plan change. Not logged.)"
+    },
+    {
+      "date": "2026-10-23",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "summary": "Codex lead 'Day 18/ ... that's a reset!': another one-off Codex usage reset in the same 28-day series (also mentions Decisions API GA, performance improvements). Temporary reset, not a plan limit or pricing change. Not logged."
     }
   ]
 }
